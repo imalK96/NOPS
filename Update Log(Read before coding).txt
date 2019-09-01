@@ -1,0 +1,12 @@
+------------Update log----------
+
+!!!!!!!Enter all changes you make here!!!!!!!!!!!!!!!
+
+--Date:25/4/2019
+Version: nops_1.1
+Author:Imal
+Updates: Added CRUD operations to Voter on Admin Panel
+
+-----------------------------------------------------------------
+by NW
+chk - ImalVoterServiceImpl -> deleteVoter Method
